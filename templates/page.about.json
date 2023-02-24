@@ -1,0 +1,372 @@
+{
+  "sections": {
+    "292fd3d9-f618-4284-9370-955d059efefe": {
+      "type": "breadcrumb",
+      "settings": {
+        "alignment_breadcrumb": "center",
+        "padding_top": 64,
+        "padding_bottom": 16
+      }
+    },
+    "b196a01e-f1bc-4e66-a068-4a8605559b96": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14995343081545__b196a01e-f1bc-4e66-a068-4a8605559b96-166496376312dfa138-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Who we are?<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "template--14995343081545__b196a01e-f1bc-4e66-a068-4a8605559b96-166496376312dfa138-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We are the future of natural skincare<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--14995343081545__b196a01e-f1bc-4e66-a068-4a8605559b96-166496376312dfa138-0",
+        "template--14995343081545__b196a01e-f1bc-4e66-a068-4a8605559b96-166496376312dfa138-1"
+      ],
+      "settings": {
+        "class_suffix": "faqs-page",
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 64,
+        "border_top_thickness": 0,
+        "border_top_opacity": 0,
+        "border_bottom_thickness": 1,
+        "border_bottom_opacity": 8
+      }
+    },
+    "b63b84ab-3998-4ab3-810f-665cfd5958af": {
+      "type": "rich-text",
+      "blocks": {
+        "template--17561988563219__b63b84ab-3998-4ab3-810f-665cfd5958af-16735963607c9a552d-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>As a Filipina entrepreneur, Annette values sharing her heritage and the Philippines' unique design perspective. Every piece is designed in New York (her current residence) and produced ethically in the Philippines<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--17561988563219__b63b84ab-3998-4ab3-810f-665cfd5958af-16735963607c9a552d-1"
+      ],
+      "settings": {
+        "class_suffix": "",
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 64,
+        "padding_bottom": 32,
+        "border_top_thickness": 0,
+        "border_top_opacity": 0,
+        "border_bottom_thickness": 0,
+        "border_bottom_opacity": 0
+      }
+    },
+    "e3fbd9e3-2530-475a-b060-3c53ed0aa0f1": {
+      "type": "image-banner",
+      "settings": {
+        "mod_class": "page-width",
+        "image": "shopify:\/\/shop_images\/stores.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "17b9d406-9383-4237-aa65-707960d8ba5e": {
+      "type": "rich-text",
+      "blocks": {
+        "template--17561988563219__17b9d406-9383-4237-aa65-707960d8ba5e-16735963607c9a552d-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Streamlined yet welcoming, the Cosmet boutique at 207 Laurier Avenue West allows for an immersion in the brand’s universe. As the creations it showcases, the conceptual space exhibits precise and delicate lines, far from the overwhelming decor of some traditional jewelry stores. Visitors don’t hesitate to come in and look around. It is not uncommon to cross path with Cosmet’s founder and designer, Myriam Elie, whose studio is adjacent to the boutique.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--17561988563219__17b9d406-9383-4237-aa65-707960d8ba5e-16735963607c9a552d-1"
+      ],
+      "settings": {
+        "class_suffix": "",
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 64,
+        "padding_bottom": 96,
+        "border_top_thickness": 0,
+        "border_top_opacity": 0,
+        "border_bottom_thickness": 0,
+        "border_bottom_opacity": 0
+      }
+    },
+    "983b6f1a-b725-482a-9167-87cb24e76802": {
+      "type": "ja-features-intro",
+      "blocks": {
+        "template--17347501687059__983b6f1a-b725-482a-9167-87cb24e76802-1673833424e7fbb548-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>We believe in meaningful progress.<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "8f52dcba-1b0f-440e-8fe0-a2c4b7e2afaa": {
+          "type": "caption",
+          "settings": {
+            "caption": "As a Filipina entrepreneur, Annette values sharing her heritage and the Philippines' unique design perspective. Every piece is designed in New York (her current residence) and produced ethically in the Philippines",
+            "text_style": "subtitle",
+            "text_size": "medium"
+          }
+        },
+        "e830b99f-88d6-499d-abab-76f57288c240": {
+          "type": "text",
+          "settings": {
+            "text": "<p>After all, you may be wondering, what exactly is clean beauty? How can I know if an ingredient in my hair care or skincare product really is clean? Are there benefits to seeking clean ingredients, or is this greenwashing all over again? we want to do better. That means asking ourselves every day, ‟How we can improve?” Whether it’s mindlessly tossing out an empty toothpaste tube or glossing over the ingredients list, small daily actions can shape the future of our planet. When we are better to ourselves and the earth, we are one step closer to a healthier and plastic-free world.<\/p>"
+          }
+        },
+        "9d7443ca-3c35-4705-8b1a-cb6ca216ef1c": {
+          "type": "feature-intro",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1",
+            "image": "shopify:\/\/shop_images\/aboutus-1.jpg",
+            "text": "",
+            "show_text_box": false
+          }
+        },
+        "70e40be0-7e53-4e8a-a2ce-9956e0159929": {
+          "type": "feature-intro",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1",
+            "image": "shopify:\/\/shop_images\/aboutus-2.jpg",
+            "text": "",
+            "show_text_box": false
+          }
+        },
+        "28fbd3ed-fc14-428a-9d5b-3938eef7ec6a": {
+          "type": "feature-intro",
+          "disabled": true,
+          "settings": {
+            "heading": "",
+            "heading_size": "h1",
+            "image": "shopify:\/\/shop_images\/aboutus-3.jpg",
+            "text": "",
+            "show_text_box": false
+          }
+        }
+      },
+      "block_order": [
+        "template--17347501687059__983b6f1a-b725-482a-9167-87cb24e76802-1673833424e7fbb548-0",
+        "8f52dcba-1b0f-440e-8fe0-a2c4b7e2afaa",
+        "e830b99f-88d6-499d-abab-76f57288c240",
+        "9d7443ca-3c35-4705-8b1a-cb6ca216ef1c",
+        "70e40be0-7e53-4e8a-a2ce-9956e0159929",
+        "28fbd3ed-fc14-428a-9d5b-3938eef7ec6a"
+      ],
+      "settings": {
+        "class_suffix": "",
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": false,
+        "padding_top": 0,
+        "padding_bottom": 64,
+        "border_top_thickness": 0,
+        "border_top_opacity": 0,
+        "border_bottom_thickness": 1,
+        "border_bottom_opacity": 8
+      }
+    },
+    "3493bd94-a1eb-4857-b5de-ec38602f8fd4": {
+      "type": "ja-features-intro",
+      "blocks": {
+        "template--17347501687059__3493bd94-a1eb-4857-b5de-ec38602f8fd4-1673838195dc7c9c57-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>It’s in our nature<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "template--17347501687059__3493bd94-a1eb-4857-b5de-ec38602f8fd4-1673838195dc7c9c57-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>After all, you may be wondering, what exactly is clean beauty? How can I know if an ingredient in my hair care or skincare product really is clean? Are there benefits to seeking clean ingredients, or is this greenwashing all over again? we want to do better. That means asking ourselves every day, ‟How we can improve?” Whether it’s mindlessly tossing out an empty toothpaste tube or glossing over the ingredients list, small daily actions can shape the future of our planet. When we are better to ourselves and the earth, we are one step closer to a healthier and plastic-free world.<\/p>"
+          }
+        },
+        "33ad0c46-8a29-468a-a6b5-41e7c3a1bd8b": {
+          "type": "feature-intro",
+          "settings": {
+            "heading": "<p>1 billion<\/p>",
+            "heading_size": "h1",
+            "text": "<p>More than 1 billion plastic toothpaste tubes are thrown out each year, with harsh chemical residues<\/p>",
+            "show_text_box": true
+          }
+        },
+        "b46f743a-1545-4bac-840e-180f2d6d6510": {
+          "type": "feature-intro",
+          "settings": {
+            "heading": "<p>100 million<\/p>",
+            "heading_size": "h1",
+            "text": "<p>More than 100 million animals suffer andå die in the U.S. every year in cruel chemical, drug, food, and cosmetics tests. Every year, more than 50 Empire State Buildings worth of toothpaste tubes end up in landfills or oceans.<\/p>",
+            "show_text_box": true
+          }
+        },
+        "031a977c-74cb-4c3e-91dc-ff69c628370d": {
+          "type": "feature-intro",
+          "settings": {
+            "heading": "<p>50<\/p>",
+            "heading_size": "h1",
+            "text": "<p>Every year, more than 50 Empire State Buildings worth of toothpaste tubes end up in landfills or oceans.<\/p>",
+            "show_text_box": true
+          }
+        }
+      },
+      "block_order": [
+        "template--17347501687059__3493bd94-a1eb-4857-b5de-ec38602f8fd4-1673838195dc7c9c57-0",
+        "template--17347501687059__3493bd94-a1eb-4857-b5de-ec38602f8fd4-1673838195dc7c9c57-1",
+        "33ad0c46-8a29-468a-a6b5-41e7c3a1bd8b",
+        "b46f743a-1545-4bac-840e-180f2d6d6510",
+        "031a977c-74cb-4c3e-91dc-ff69c628370d"
+      ],
+      "settings": {
+        "class_suffix": "",
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": false,
+        "padding_top": 96,
+        "padding_bottom": 64,
+        "border_top_thickness": 0,
+        "border_top_opacity": 0,
+        "border_bottom_thickness": 0,
+        "border_bottom_opacity": 0
+      }
+    },
+    "220e8516-0741-4292-93f5-e4d7ac0a494c": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--17347501687059__220e8516-0741-4292-93f5-e4d7ac0a494c-16738555825b9c4f4b-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Gift.png",
+            "image_position": "top",
+            "title": "Free samples on every order",
+            "title_size": "h4",
+            "meta": "",
+            "icon": "none",
+            "icon_position": "left",
+            "text": "<p>Vegan and Leaping Bunny certified cruelty-free<br\/><\/p>",
+            "link_label": "",
+            "link": "",
+            "link_style": "link",
+            "padding_left": 0,
+            "padding_right": 0,
+            "padding_top": 0,
+            "padding_bottom": 0,
+            "image_spacing": 25
+          }
+        },
+        "template--17347501687059__220e8516-0741-4292-93f5-e4d7ac0a494c-16738555825b9c4f4b-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/RocketLaunch.png",
+            "image_position": "top",
+            "title": "Free shipping over 100€",
+            "title_size": "h4",
+            "meta": "",
+            "icon": "none",
+            "icon_position": "left",
+            "text": "<p>Organic, plant-based, soy-free, gluten-free, paraben-free, non-toxic, and non-GMO<\/p>",
+            "link_label": "",
+            "link": "",
+            "link_style": "link",
+            "padding_left": 0,
+            "padding_right": 0,
+            "padding_top": 0,
+            "padding_bottom": 0,
+            "image_spacing": 25
+          }
+        },
+        "template--17347501687059__220e8516-0741-4292-93f5-e4d7ac0a494c-16738555825b9c4f4b-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Storefront.png",
+            "image_position": "top",
+            "title": "Free beauty bag over 150€",
+            "title_size": "h4",
+            "meta": "",
+            "icon": "none",
+            "icon_position": "left",
+            "text": "<p>Based in Los Angeles, California where we make, pour, label, package, and ship everything<\/p>",
+            "link_label": "",
+            "link": "",
+            "link_style": "link",
+            "padding_left": 0,
+            "padding_right": 0,
+            "padding_top": 0,
+            "padding_bottom": 0,
+            "image_spacing": 25
+          }
+        }
+      },
+      "block_order": [
+        "template--17347501687059__220e8516-0741-4292-93f5-e4d7ac0a494c-16738555825b9c4f4b-0",
+        "template--17347501687059__220e8516-0741-4292-93f5-e4d7ac0a494c-16738555825b9c4f4b-1",
+        "template--17347501687059__220e8516-0741-4292-93f5-e4d7ac0a494c-16738555825b9c4f4b-2"
+      ],
+      "settings": {
+        "title": "Made of high quality materials and byhighest possible standards",
+        "heading_size": "h2",
+        "title_style": "02",
+        "description_style": "body",
+        "description": "",
+        "layout": "grid",
+        "image_width": "six",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "row_alignment": "none",
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_tablet": "2",
+        "swipe_on_tablet": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 64,
+        "padding_bottom": 128,
+        "border_top_thickness": 0,
+        "border_top_opacity": 0,
+        "border_bottom_thickness": 0,
+        "border_bottom_opacity": 0,
+        "mod_class": "about-us"
+      }
+    }
+  },
+  "order": [
+    "292fd3d9-f618-4284-9370-955d059efefe",
+    "b196a01e-f1bc-4e66-a068-4a8605559b96",
+    "b63b84ab-3998-4ab3-810f-665cfd5958af",
+    "e3fbd9e3-2530-475a-b060-3c53ed0aa0f1",
+    "17b9d406-9383-4237-aa65-707960d8ba5e",
+    "983b6f1a-b725-482a-9167-87cb24e76802",
+    "3493bd94-a1eb-4857-b5de-ec38602f8fd4",
+    "220e8516-0741-4292-93f5-e4d7ac0a494c"
+  ]
+}

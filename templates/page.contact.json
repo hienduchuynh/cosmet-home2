@@ -1,0 +1,94 @@
+{
+  "sections": {
+    "1663821762badf5565": {
+      "type": "breadcrumb",
+      "settings": {
+        "alignment_breadcrumb": "center",
+        "padding_top": 64,
+        "padding_bottom": 0
+      }
+    },
+    "main": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14995343081545__b196a01e-f1bc-4e66-a068-4a8605559b96-166496376312dfa138-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Contact us<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "template--14995343081545__b196a01e-f1bc-4e66-a068-4a8605559b96-166496376312dfa138-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We'd love to hear from you! Feel free to contact us and our team will be happy to answer you.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--14995343081545__b196a01e-f1bc-4e66-a068-4a8605559b96-166496376312dfa138-0",
+        "template--14995343081545__b196a01e-f1bc-4e66-a068-4a8605559b96-166496376312dfa138-1"
+      ],
+      "settings": {
+        "class_suffix": "",
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 48,
+        "border_top_thickness": 0,
+        "border_top_opacity": 0,
+        "border_bottom_thickness": 1,
+        "border_bottom_opacity": 8
+      }
+    },
+    "form": {
+      "type": "contact-form",
+      "blocks": {
+        "59dea0b6-a68d-4ee7-8b72-e6ebf879f73e": {
+          "type": "misc",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Clock.png",
+            "label": "Business Hours",
+            "description": "<p><strong>Monday<\/strong> - By appointment<\/p><p><strong>Tuesday to Friday<\/strong> - 11am - 6pm<\/p><p><strong>Saturday to Sunday<\/strong> -11am - 5pm<\/p>"
+          }
+        },
+        "32de8312-c4d3-4248-925c-bffae59a2912": {
+          "type": "misc",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Storefront.png",
+            "label": "Flagship store",
+            "description": "<p><strong>Cosmet store<\/strong><\/p><p>2118 Thornridge Cir. Syracuse, Connecticut 35624<\/p>"
+          }
+        },
+        "eed5beb8-1c38-4d9e-8de8-c852e2cb7471": {
+          "type": "misc",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Phone.png",
+            "label": "Inquiries",
+            "description": "<p><a href=\"mailto:sale@cosmet.com\" title=\"mailto:sale@cosmet.com\">sale@cosmet.com<\/a><\/p><p>(316) 555-0116<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "59dea0b6-a68d-4ee7-8b72-e6ebf879f73e",
+        "32de8312-c4d3-4248-925c-bffae59a2912",
+        "eed5beb8-1c38-4d9e-8de8-c852e2cb7471"
+      ],
+      "settings": {
+        "heading": "Keep In Touch",
+        "heading_size": "h2",
+        "description": "<p>We always love hearing from you! If you have any questions or feedback please feel free to get in touch and we'll get back to you shortly.<\/p>",
+        "color_scheme": "background-1",
+        "padding_top": 64,
+        "padding_bottom": 64
+      }
+    }
+  },
+  "order": [
+    "1663821762badf5565",
+    "main",
+    "form"
+  ]
+}

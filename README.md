@@ -1,1 +1,1 @@
-# cosmet-home2
+# Cosmet

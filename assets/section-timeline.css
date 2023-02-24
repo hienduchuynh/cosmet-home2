@@ -1,0 +1,106 @@
+.section-timeline-wrap .timeline {
+  position: relative;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.section-timeline-wrap .content {
+  max-width: 66.66%;
+  margin: 0 auto;
+}
+
+.section-timeline-wrap .container {
+  padding: 3.2rem 0 ;
+  position: relative;
+  background: inherit;
+  display: flex;
+  justify-content: space-between;
+  gap: 64px;
+  border-bottom: 1px solid rgba(0,0,0,0.08);
+}
+
+.section-timeline-wrap .container:last-child {
+  padding-bottom: 0;
+  border-bottom: 0;
+}
+
+.section-timeline-wrap .container > div {
+  width: 50%;
+  max-width: 50%;
+}
+
+.section-timeline-wrap .container.right {
+  flex-direction: row-reverse;
+  text-align: left;
+}
+
+.section-timeline-wrap .container.left {
+  text-align: right;
+}
+
+.section-timeline-wrap .timeline .image-event img {
+  max-width: 100%;
+  max-height: 400px;
+  object-fit: cover;
+  object-position: center;
+  border-radius: 8px;
+}
+
+.section-timeline-wrap .timeline .content {}
+
+.section-timeline-wrap .timeline .container .date {
+  margin-bottom: 0.8rem;
+  margin-top: 0;
+  color: rgba(var(--color-base-accent-3));
+}
+
+.section-timeline-wrap .timeline .container .content h2 {
+  margin-top: 0;
+  margin-bottom: 3.2rem;
+}
+
+.section-timeline-wrap .timeline .container .content p {
+}
+
+@media screen and (max-width: 1199px) {
+  .section-timeline-wrap .content {
+    max-width: 100%;
+  }
+}
+
+@media screen and (max-width: 749px) {
+  .section-timeline-wrap .timeline .container {
+    flex-direction: column;
+    gap: 4.8rem;
+    align-items: flex-start;
+  }
+
+  .section-timeline-wrap .timeline .container > div {
+    width: 100%;
+    max-width: 100%;
+  }
+
+  .section-timeline-wrap .timeline .container .pseudo {
+    text-align: center;
+  }
+
+  .section-timeline-wrap .timeline .image-event img {
+    height: auto;
+  }
+}
+
+.page-page-history .banner {
+  max-width: 66.66%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.page-page-history .banner .banner__media {
+  border-radius: 8px;
+}
+
+@media screen and (max-width: 1199px) {
+  .page-page-history .banner {
+    max-width: 100%;
+  }
+}

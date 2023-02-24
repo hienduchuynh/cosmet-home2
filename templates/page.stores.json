@@ -1,0 +1,186 @@
+{
+  "sections": {
+    "292fd3d9-f618-4284-9370-955d059efefe": {
+      "type": "breadcrumb",
+      "settings": {
+        "alignment_breadcrumb": "center",
+        "padding_top": 64,
+        "padding_bottom": 16
+      }
+    },
+    "b196a01e-f1bc-4e66-a068-4a8605559b96": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14995343081545__b196a01e-f1bc-4e66-a068-4a8605559b96-166496376312dfa138-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>The store<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "template--14995343081545__b196a01e-f1bc-4e66-a068-4a8605559b96-166496376312dfa138-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>A blog about your smile, our planet, and daily changes that add up.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--14995343081545__b196a01e-f1bc-4e66-a068-4a8605559b96-166496376312dfa138-0",
+        "template--14995343081545__b196a01e-f1bc-4e66-a068-4a8605559b96-166496376312dfa138-1"
+      ],
+      "settings": {
+        "class_suffix": "faqs-page",
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 64,
+        "border_top_thickness": 0,
+        "border_top_opacity": 0,
+        "border_bottom_thickness": 0,
+        "border_bottom_opacity": 0
+      }
+    },
+    "e3fbd9e3-2530-475a-b060-3c53ed0aa0f1": {
+      "type": "image-banner",
+      "settings": {
+        "mod_class": "page-width",
+        "image": "shopify:\/\/shop_images\/stores.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "17b9d406-9383-4237-aa65-707960d8ba5e": {
+      "type": "rich-text",
+      "blocks": {
+        "465025b8-11c3-47b6-a1ea-b01ec10e5d11": {
+          "type": "caption",
+          "settings": {
+            "caption": "“ Cosmet was founded on the belief that a brighter smile doesn’t need to come at the expense of our bodies or the environment. Our daily habits matter, and the small changes we make together can add up to something big. ”",
+            "text_style": "subtitle",
+            "text_size": "large"
+          }
+        },
+        "template--17561988563219__17b9d406-9383-4237-aa65-707960d8ba5e-16735963607c9a552d-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Streamlined yet welcoming, the Cosmet boutique at 207 Laurier Avenue West allows for an immersion in the brand’s universe. As the creations it showcases, the conceptual space exhibits precise and delicate lines, far from the overwhelming decor of some traditional jewelry stores. Visitors don’t hesitate to come in and look around. It is not uncommon to cross path with Cosmet’s founder and designer, Myriam Elie, whose studio is adjacent to the boutique.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "465025b8-11c3-47b6-a1ea-b01ec10e5d11",
+        "template--17561988563219__17b9d406-9383-4237-aa65-707960d8ba5e-16735963607c9a552d-1"
+      ],
+      "settings": {
+        "class_suffix": "",
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 64,
+        "padding_bottom": 32,
+        "border_top_thickness": 0,
+        "border_top_opacity": 0,
+        "border_bottom_thickness": 0,
+        "border_bottom_opacity": 0
+      }
+    },
+    "771ee098-b6cf-4605-a893-0df3fe24ca7f": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--17561988563219__771ee098-b6cf-4605-a893-0df3fe24ca7f-1673928076067eaccf-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/stores-1.jpg",
+            "image_position": "bottom",
+            "title": "Business Hours",
+            "title_size": "h3",
+            "meta": "",
+            "icon": "stopwatch",
+            "icon_position": "left",
+            "text": "<p><strong>Monday<\/strong> - By appointment<\/p><p><strong>Tuesday to Friday<\/strong> - 11am - 6pm<\/p><p><strong>Saturday to Sunday<\/strong> -11am - 5pm<\/p>",
+            "link_label": "",
+            "link": "",
+            "link_style": "link",
+            "padding_left": 0,
+            "padding_right": 0,
+            "padding_top": 0,
+            "padding_bottom": 0,
+            "image_spacing": 0
+          }
+        },
+        "template--17561988563219__771ee098-b6cf-4605-a893-0df3fe24ca7f-1673928076067eaccf-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/stores-2.jpg",
+            "image_position": "bottom",
+            "title": "Flagship store",
+            "title_size": "h3",
+            "meta": "",
+            "icon": "bottle",
+            "icon_position": "left",
+            "text": "<p><strong>Cosmet store<\/strong><\/p><p>2118 Thornridge Cir. Syracuse, <\/p><p>Connecticut 35624<\/p><p><\/p>",
+            "link_label": "",
+            "link": "",
+            "link_style": "link",
+            "padding_left": 0,
+            "padding_right": 0,
+            "padding_top": 0,
+            "padding_bottom": 0,
+            "image_spacing": 0
+          }
+        }
+      },
+      "block_order": [
+        "template--17561988563219__771ee098-b6cf-4605-a893-0df3fe24ca7f-1673928076067eaccf-0",
+        "template--17561988563219__771ee098-b6cf-4605-a893-0df3fe24ca7f-1673928076067eaccf-1"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "title_style": "02",
+        "description_style": "body",
+        "description": "",
+        "layout": "grid",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "row_alignment": "none",
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_tablet": "2",
+        "swipe_on_tablet": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 128,
+        "border_top_thickness": 0,
+        "border_top_opacity": 0,
+        "border_bottom_thickness": 0,
+        "border_bottom_opacity": 0,
+        "mod_class": ""
+      }
+    }
+  },
+  "order": [
+    "292fd3d9-f618-4284-9370-955d059efefe",
+    "b196a01e-f1bc-4e66-a068-4a8605559b96",
+    "e3fbd9e3-2530-475a-b060-3c53ed0aa0f1",
+    "17b9d406-9383-4237-aa65-707960d8ba5e",
+    "771ee098-b6cf-4605-a893-0df3fe24ca7f"
+  ]
+}
