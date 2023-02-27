@@ -120,7 +120,7 @@
           "settings": {
             "image_position": "top",
             "title": "Free shipping",
-            "title_size": "h3",
+            "title_size": "h5",
             "meta": "",
             "icon": "box",
             "icon_position": "left",
@@ -140,7 +140,7 @@
           "settings": {
             "image_position": "top",
             "title": "Returns & refunds",
-            "title_size": "h3",
+            "title_size": "h5",
             "meta": "",
             "icon": "leaf",
             "icon_position": "left",
@@ -160,7 +160,7 @@
           "settings": {
             "image_position": "top",
             "title": "Money back guarantee",
-            "title_size": "h3",
+            "title_size": "h5",
             "meta": "",
             "icon": "truck",
             "icon_position": "left",
@@ -180,7 +180,7 @@
           "settings": {
             "image_position": "top",
             "title": "24\/7 online support",
-            "title_size": "h3",
+            "title_size": "h5",
             "meta": "",
             "icon": "heart",
             "icon_position": "left",
