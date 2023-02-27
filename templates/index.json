@@ -128,11 +128,11 @@
             "link_label": "",
             "link": "",
             "link_style": "link",
-            "padding_left": 32,
-            "padding_right": 32,
-            "padding_top": 48,
-            "padding_bottom": 48,
-            "image_spacing": 25
+            "padding_left": 0,
+            "padding_right": 0,
+            "padding_top": 0,
+            "padding_bottom": 0,
+            "image_spacing": 0
           }
         },
         "template--18022992183571__502eac10-f950-461b-a014-b0c013cfb42e-1677482149c1c4212a-1": {
@@ -148,11 +148,11 @@
             "link_label": "",
             "link": "",
             "link_style": "link",
-            "padding_left": 32,
-            "padding_right": 32,
-            "padding_top": 48,
-            "padding_bottom": 48,
-            "image_spacing": 25
+            "padding_left": 0,
+            "padding_right": 0,
+            "padding_top": 0,
+            "padding_bottom": 0,
+            "image_spacing": 0
           }
         },
         "template--18022992183571__502eac10-f950-461b-a014-b0c013cfb42e-1677482149c1c4212a-2": {
@@ -168,11 +168,11 @@
             "link_label": "",
             "link": "",
             "link_style": "link",
-            "padding_left": 32,
-            "padding_right": 32,
-            "padding_top": 48,
-            "padding_bottom": 48,
-            "image_spacing": 25
+            "padding_left": 0,
+            "padding_right": 0,
+            "padding_top": 0,
+            "padding_bottom": 0,
+            "image_spacing": 0
           }
         },
         "7217c132-0f93-4e0a-9deb-9265bc064003": {
@@ -188,11 +188,11 @@
             "link_label": "",
             "link": "",
             "link_style": "link",
-            "padding_left": 32,
-            "padding_right": 32,
-            "padding_top": 48,
-            "padding_bottom": 48,
-            "image_spacing": 25
+            "padding_left": 0,
+            "padding_right": 0,
+            "padding_top": 0,
+            "padding_bottom": 0,
+            "image_spacing": 0
           }
         }
       },
@@ -222,12 +222,12 @@
         "swipe_on_tablet": false,
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 0,
-        "padding_bottom": 0,
+        "padding_top": 64,
+        "padding_bottom": 64,
         "border_top_thickness": 0,
         "border_top_opacity": 0,
-        "border_bottom_thickness": 0,
-        "border_bottom_opacity": 0,
+        "border_bottom_thickness": 1,
+        "border_bottom_opacity": 10,
         "mod_class": ""
       }
     },
