@@ -208,7 +208,7 @@
         "title_style": "01",
         "description_style": "body",
         "description": "",
-        "layout": "grid--gapless",
+        "layout": "grid",
         "image_width": "full",
         "image_ratio": "adapt",
         "columns_desktop": 4,
