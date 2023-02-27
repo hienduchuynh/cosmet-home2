@@ -174,12 +174,33 @@
             "padding_bottom": 48,
             "image_spacing": 25
           }
+        },
+        "7217c132-0f93-4e0a-9deb-9265bc064003": {
+          "type": "column",
+          "settings": {
+            "image_position": "top",
+            "title": "24\/7 online support",
+            "title_size": "h3",
+            "meta": "",
+            "icon": "heart",
+            "icon_position": "left",
+            "text": "<p>Pay with Multiple Credit Cards<\/p>",
+            "link_label": "",
+            "link": "",
+            "link_style": "link",
+            "padding_left": 32,
+            "padding_right": 32,
+            "padding_top": 48,
+            "padding_bottom": 48,
+            "image_spacing": 25
+          }
         }
       },
       "block_order": [
         "template--18022992183571__502eac10-f950-461b-a014-b0c013cfb42e-1677482149c1c4212a-0",
         "template--18022992183571__502eac10-f950-461b-a014-b0c013cfb42e-1677482149c1c4212a-1",
-        "template--18022992183571__502eac10-f950-461b-a014-b0c013cfb42e-1677482149c1c4212a-2"
+        "template--18022992183571__502eac10-f950-461b-a014-b0c013cfb42e-1677482149c1c4212a-2",
+        "7217c132-0f93-4e0a-9deb-9265bc064003"
       ],
       "settings": {
         "title": "",
