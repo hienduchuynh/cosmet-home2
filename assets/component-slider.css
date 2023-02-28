@@ -589,3 +589,15 @@ slider-component:hover .slider-button {
 .slider-navigation .slider-button--next {
   right: 6.4rem;
 }
+
+/*Style Cosmet - Home-02*/
+/* @media screen and (min-width: 1440px) {
+  .new-trending-collection .slider-component-full-width .slider--desktop {
+    scroll-padding-left: 0;
+    margin-left: -13rem;
+  }
+  .new-trending-collection .slider-component-full-width .slider--desktop .slider__slide:first-child { 
+    margin-left: 0;
+    scroll-margin-left: 0;
+  }
+} */
