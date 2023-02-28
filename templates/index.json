@@ -216,7 +216,7 @@
             "image": "shopify:\/\/shop_images\/cat-keratin.png",
             "image_position": "top",
             "title": "Keratin",
-            "title_size": "h1",
+            "title_size": "h5",
             "meta": "",
             "icon": "none",
             "icon_position": "left",
