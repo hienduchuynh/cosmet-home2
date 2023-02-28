@@ -322,7 +322,7 @@
         "swipe_on_tablet": false,
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 36,
+        "padding_top": 128,
         "padding_bottom": 0,
         "border_top_thickness": 0,
         "border_top_opacity": 0,
