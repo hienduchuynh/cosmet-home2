@@ -149,7 +149,7 @@
                 </div>
               {%- endif -%}
               
-              {%- if block.settings.icon != 'none' or block.settings.text != blank or block.settings.link_label != blank -%}
+              {%- if block.settings.icon != 'none' or block.settings.text != blank or block.settings.title != blank or block.settings.link_label != blank -%}
               <div class="multicolumn-card__info" 
                 {%- if block.settings.image_spacing and block.settings.image_position == "top" -%}
                 style="padding-top: {{ block.settings.image_spacing }}px;"

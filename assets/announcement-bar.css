@@ -1,0 +1,12 @@
+#shopify-section-announcement-bar  .announcement-bar {  
+  --color-foreground: 43,43,59;
+  --color-background: 255, 255, 255;
+  --gradient-background: 255, 255, 255;
+  background: rgb(var(--color-background));
+  border-bottom: 1px solid rgba(0, 0, 0, .1);
+}
+#shopify-section-announcement-bar  .announcement-bar__message {   
+  color: rgb(var(--color-foreground), .75);
+  text-transform: none;
+  font-size: calc(var(--font-heading-scale) * 1.6rem);
+}
