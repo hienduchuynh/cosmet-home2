@@ -286,7 +286,7 @@
         "description": "<p>Our categories<\/p>",
         "layout": "grid",
         "image_width": "full",
-        "image_ratio": "adapt",
+        "image_ratio": "circle",
         "columns_desktop": 4,
         "row_alignment": "top",
         "column_alignment": "center",
