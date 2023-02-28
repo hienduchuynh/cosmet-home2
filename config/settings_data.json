@@ -130,7 +130,7 @@
           "announcement-bar-0": {
             "type": "announcement",
             "settings": {
-              "text": "<p>SPECIAL PROMO: FREE ONLINE VISIT. START ED VISIT<\/p>",
+              "text": "<p>Free shipping on all U.S. orders $50+<\/p>",
               "content_alignment": "center"
             }
           }
