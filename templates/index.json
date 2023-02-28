@@ -220,7 +220,7 @@
             "meta": "Keratin",
             "icon": "none",
             "icon_position": "left",
-            "text": "",
+            "text": "<p>abc<\/p>",
             "link_label": "",
             "link": "",
             "link_style": "link",
