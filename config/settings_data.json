@@ -139,9 +139,9 @@
           "announcement-bar-0"
         ],
         "settings": {
-          "bg_colors": "#5e8c5e",
+          "bg_colors": "#ffffff",
           "text_colors": "#ffffff",
-          "full_width": false,
+          "full_width": true,
           "container": false,
           "mod_class": ""
         }
