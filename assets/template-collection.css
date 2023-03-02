@@ -326,29 +326,28 @@
 }
 
 .slider-buttons.slider-dots .slider-counter__link--dots .dot {
-	background-color: rgb(var(--color-foreground), 0.5);
+	/* background-color: rgb(var(--color-foreground), 0.1);
 	border: 0;
-	width: 4px;
-	height: 4px;
+	width: 8px;
+	height: 8px;
 	border-radius: 50%;
-	padding: 0;
-	display: block;
+	padding: 0; */
+	display: none;
 }
 
 .slider-buttons.slider-dots .slider-counter__link--dots.slider-counter__link {
-	--color-foreground: 33, 33, 33;
-	padding: 2px;
-	border: 2px solid transparent;
-	border-top-color: transparent;
-	border-right-color: transparent;
-	border-bottom-color: transparent;
-	border-left-color: transparent;
-	margin: 0 2px;
+	--color-foreground: 0, 0, 0;
+	padding: 0;
+	border: 0;
+	margin: 0 4px;
+	width: 8px;
+	height: 8px;
+	background-color: rgb(var(--color-foreground), 0.1);
 	border-radius: 50%;
 }
-
+.slider-buttons.slider-dots .slider-counter__link--dots.slider-counter__link:hover,
 .slider-buttons.slider-dots .slider-counter__link--dots.slider-counter__link.slider-counter__link--active {
-	border-color: rgb(var(--color-foreground));
+	background-color: rgba(var(--color-base-background-2));
 }
 
 @media screen and (max-width: 749px) {
@@ -416,6 +415,7 @@
 
 .collection slider-component .slider-buttons {
   position: static;
+	margin-top: 64px;
 }
 
 .collection slider-component .slider-buttons .slider-button {

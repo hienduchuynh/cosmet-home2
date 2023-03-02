@@ -334,45 +334,95 @@
     "98cf22dd-b2a0-4512-911b-784a91761100": {
       "type": "image-with-text",
       "blocks": {
-        "template--18022992183571__98cf22dd-b2a0-4512-911b-784a91761100-16777414956ef7231e-0": {
+        "16883d94-9cc8-40f6-acb8-e5d69157b05e": {
+          "type": "title_decor",
+          "settings": {
+            "title_decor": "shopify:\/\/shop_images\/decor-3.png"
+          }
+        },
+        "c71faeab-0e09-432a-82ed-b89d59be7576": {
+          "type": "caption",
+          "settings": {
+            "caption": "Proven results",
+            "text_style": "subtitle",
+            "text_size": "small"
+          }
+        },
+        "template--17347501523219__9c5800dd-9764-413a-b02d-e6f2f45f67f5-167221148174312811-0": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
+            "heading": "Natural products powered by science",
             "heading_size": "h1"
           }
         },
-        "template--18022992183571__98cf22dd-b2a0-4512-911b-784a91761100-16777414956ef7231e-1": {
+        "template--17347501523219__9c5800dd-9764-413a-b02d-e6f2f45f67f5-167221148174312811-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>We partnered with a community of experts, including botanists, formulation scientists, nutritionists and a University to formulate natural products that work.<\/p>",
             "text_style": "body"
           }
         },
-        "template--18022992183571__98cf22dd-b2a0-4512-911b-784a91761100-16777414956ef7231e-2": {
+        "51cd75d2-f9d2-4621-94fd-617d1a1539eb": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Our highly concentrated extracts from our ecofarm are combined with additional tech ingredients for resilient, glowing skin.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "53ece0f2-f19a-44df-930e-723175f753f9": {
+          "type": "features",
+          "settings": {
+            "text": "Vegan products",
+            "image": "shopify:\/\/shop_images\/sunflower.png"
+          }
+        },
+        "ab21e8c2-7319-45b6-95dc-c77cb2c82ac4": {
+          "type": "features",
+          "settings": {
+            "text": "Hand made",
+            "image": "shopify:\/\/shop_images\/talcum-powder.png"
+          }
+        },
+        "d032dab0-3fcd-4362-b0c2-b92cae79da33": {
+          "type": "features",
+          "settings": {
+            "text": "Paraben free",
+            "image": "shopify:\/\/shop_images\/mineral-water.png"
+          }
+        },
+        "template--17347501523219__9c5800dd-9764-413a-b02d-e6f2f45f67f5-167221148174312811-2": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
-            "button_link": ""
+            "button_label": "Shop all products",
+            "button_link": "shopify:\/\/collections\/all"
           }
         }
       },
       "block_order": [
-        "template--18022992183571__98cf22dd-b2a0-4512-911b-784a91761100-16777414956ef7231e-0",
-        "template--18022992183571__98cf22dd-b2a0-4512-911b-784a91761100-16777414956ef7231e-1",
-        "template--18022992183571__98cf22dd-b2a0-4512-911b-784a91761100-16777414956ef7231e-2"
+        "16883d94-9cc8-40f6-acb8-e5d69157b05e",
+        "c71faeab-0e09-432a-82ed-b89d59be7576",
+        "template--17347501523219__9c5800dd-9764-413a-b02d-e6f2f45f67f5-167221148174312811-0",
+        "template--17347501523219__9c5800dd-9764-413a-b02d-e6f2f45f67f5-167221148174312811-1",
+        "51cd75d2-f9d2-4621-94fd-617d1a1539eb",
+        "53ece0f2-f19a-44df-930e-723175f753f9",
+        "ab21e8c2-7319-45b6-95dc-c77cb2c82ac4",
+        "d032dab0-3fcd-4362-b0c2-b92cae79da33",
+        "template--17347501523219__9c5800dd-9764-413a-b02d-e6f2f45f67f5-167221148174312811-2"
       ],
       "settings": {
         "class_suffix": "",
-        "height": "adapt",
+        "image": "shopify:\/\/shop_images\/ftc-01.jpg",
+        "height": "small",
         "desktop_image_width": "medium",
         "layout": "image_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
         "color_scheme": "background-1",
+        "second_image": "shopify:\/\/shop_images\/prd-05.jpg",
         "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 0,
+        "padding_bottom": 128
       }
     },
     "7afcf70d-4f53-4da2-9322-a5c118360a18": {
