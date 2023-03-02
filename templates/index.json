@@ -470,9 +470,9 @@
         "38fe840b-df7a-4e6c-a368-0eb92ffd3bee": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Collapsible item",
+            "heading": "Best seller",
             "icon": "none",
-            "content": "<p>aaa<\/p>",
+            "content": "<p>Best seller<\/p>",
             "description": false,
             "image_ratio": "43",
             "page": ""
@@ -481,9 +481,9 @@
         "78c87205-0408-47ff-b4f2-3c03e735da15": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Collapsible item",
+            "heading": "New Arrivals",
             "icon": "none",
-            "content": "<p>aaa<\/p>",
+            "content": "<p>New Arrivals<\/p>",
             "description": false,
             "image_ratio": "43",
             "page": ""
