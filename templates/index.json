@@ -463,6 +463,31 @@
         "border_bottom_thickness": 0,
         "border_bottom_opacity": 0
       }
+    },
+    "85cd9c3d-f856-4ee8-8c9e-ff15a822578c": {
+      "type": "tab-product-list",
+      "blocks": {
+        "38fe840b-df7a-4e6c-a368-0eb92ffd3bee": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Collapsible item",
+            "icon": "check_mark",
+            "content": "<p>aaa<\/p>",
+            "description": false,
+            "image_ratio": "43",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "38fe840b-df7a-4e6c-a368-0eb92ffd3bee"
+      ],
+      "settings": {
+        "box_width": 50,
+        "collapsible_tab_header_position": "top",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -472,6 +497,7 @@
     "d1616f07-db79-4c2d-b39a-920e6603aba5",
     "7afcf70d-4f53-4da2-9322-a5c118360a18",
     "98cf22dd-b2a0-4512-911b-784a91761100",
-    "13070f5d-8a58-4daf-a17a-288e26b73b06"
+    "13070f5d-8a58-4daf-a17a-288e26b73b06",
+    "85cd9c3d-f856-4ee8-8c9e-ff15a822578c"
   ]
 }
