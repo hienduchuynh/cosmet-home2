@@ -343,7 +343,7 @@
         "c71faeab-0e09-432a-82ed-b89d59be7576": {
           "type": "caption",
           "settings": {
-            "caption": "Proven results",
+            "caption": "New collection",
             "text_style": "subtitle",
             "text_size": "small"
           }
@@ -351,43 +351,8 @@
         "template--17347501523219__9c5800dd-9764-413a-b02d-e6f2f45f67f5-167221148174312811-0": {
           "type": "heading",
           "settings": {
-            "heading": "Natural products powered by science",
+            "heading": "The missing piece",
             "heading_size": "h1"
-          }
-        },
-        "template--17347501523219__9c5800dd-9764-413a-b02d-e6f2f45f67f5-167221148174312811-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>We partnered with a community of experts, including botanists, formulation scientists, nutritionists and a University to formulate natural products that work.<\/p>",
-            "text_style": "body"
-          }
-        },
-        "51cd75d2-f9d2-4621-94fd-617d1a1539eb": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Our highly concentrated extracts from our ecofarm are combined with additional tech ingredients for resilient, glowing skin.<\/p>",
-            "text_style": "body"
-          }
-        },
-        "53ece0f2-f19a-44df-930e-723175f753f9": {
-          "type": "features",
-          "settings": {
-            "text": "Vegan products",
-            "image": "shopify:\/\/shop_images\/sunflower.png"
-          }
-        },
-        "ab21e8c2-7319-45b6-95dc-c77cb2c82ac4": {
-          "type": "features",
-          "settings": {
-            "text": "Hand made",
-            "image": "shopify:\/\/shop_images\/talcum-powder.png"
-          }
-        },
-        "d032dab0-3fcd-4362-b0c2-b92cae79da33": {
-          "type": "features",
-          "settings": {
-            "text": "Paraben free",
-            "image": "shopify:\/\/shop_images\/mineral-water.png"
           }
         },
         "template--17347501523219__9c5800dd-9764-413a-b02d-e6f2f45f67f5-167221148174312811-2": {
@@ -396,22 +361,25 @@
             "button_label": "Shop all products",
             "button_link": "shopify:\/\/collections\/all"
           }
+        },
+        "5b29a016-a528-4405-b771-bef245ee59c3": {
+          "type": "features",
+          "settings": {
+            "text": "Feature Intro",
+            "image": "shopify:\/\/shop_images\/The_missing_piece.jpg"
+          }
         }
       },
       "block_order": [
         "16883d94-9cc8-40f6-acb8-e5d69157b05e",
         "c71faeab-0e09-432a-82ed-b89d59be7576",
         "template--17347501523219__9c5800dd-9764-413a-b02d-e6f2f45f67f5-167221148174312811-0",
-        "template--17347501523219__9c5800dd-9764-413a-b02d-e6f2f45f67f5-167221148174312811-1",
-        "51cd75d2-f9d2-4621-94fd-617d1a1539eb",
-        "53ece0f2-f19a-44df-930e-723175f753f9",
-        "ab21e8c2-7319-45b6-95dc-c77cb2c82ac4",
-        "d032dab0-3fcd-4362-b0c2-b92cae79da33",
-        "template--17347501523219__9c5800dd-9764-413a-b02d-e6f2f45f67f5-167221148174312811-2"
+        "template--17347501523219__9c5800dd-9764-413a-b02d-e6f2f45f67f5-167221148174312811-2",
+        "5b29a016-a528-4405-b771-bef245ee59c3"
       ],
       "settings": {
-        "class_suffix": "",
-        "image": "shopify:\/\/shop_images\/ftc-01.jpg",
+        "class_suffix": "home-02-new-collection",
+        "image": "shopify:\/\/shop_images\/New_collection.jpg",
         "height": "small",
         "desktop_image_width": "medium",
         "layout": "text_first",
@@ -419,7 +387,6 @@
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
         "color_scheme": "background-1",
-        "second_image": "shopify:\/\/shop_images\/prd-05.jpg",
         "mobile_content_alignment": "left",
         "padding_top": 0,
         "padding_bottom": 128
