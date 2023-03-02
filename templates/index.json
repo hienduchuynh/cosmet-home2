@@ -477,10 +477,22 @@
             "image_ratio": "43",
             "page": ""
           }
+        },
+        "78c87205-0408-47ff-b4f2-3c03e735da15": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Collapsible item",
+            "icon": "check_mark",
+            "content": "<p>aaa<\/p>",
+            "description": false,
+            "image_ratio": "43",
+            "page": ""
+          }
         }
       },
       "block_order": [
-        "38fe840b-df7a-4e6c-a368-0eb92ffd3bee"
+        "38fe840b-df7a-4e6c-a368-0eb92ffd3bee",
+        "78c87205-0408-47ff-b4f2-3c03e735da15"
       ],
       "settings": {
         "box_width": 50,
