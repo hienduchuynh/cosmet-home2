@@ -39,6 +39,15 @@
                       </div>
                     </li>
                   {%- endif -%}
+                {%- when 'product_tab' -%}
+                  <li id="tabHeader-{{ forloop.index }}">
+                    <div class="summary__title">
+                      {% render 'icon-accordion', icon: block.settings.icon %}
+                      <h2 class="h5 tab__title">
+                        {{ block.settings.heading | default: block.settings.page.title }}
+                      </h2>
+                    </div>
+                  </li>
               {%- endcase -%}
             {%- endfor -%}
           </ul>
