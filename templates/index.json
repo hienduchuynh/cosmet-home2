@@ -434,44 +434,6 @@
         "padding_bottom": 0
       }
     },
-    "657cc108-521f-4326-9353-ee943708e710": {
-      "type": "collapsible-info-product",
-      "blocks": {
-        "9149cd29-403d-454b-9be4-c7d63e4e3847": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Collapsible item",
-            "icon": "check_mark",
-            "content": "",
-            "description": false,
-            "image_ratio": "43",
-            "page": ""
-          }
-        },
-        "38c99559-80a8-4bb7-b837-8db9de46874b": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Collapsible item",
-            "icon": "check_mark",
-            "content": "",
-            "description": false,
-            "image_ratio": "43",
-            "page": ""
-          }
-        }
-      },
-      "block_order": [
-        "9149cd29-403d-454b-9be4-c7d63e4e3847",
-        "38c99559-80a8-4bb7-b837-8db9de46874b"
-      ],
-      "settings": {
-        "collapsible_type": "accordion",
-        "box_width": 50,
-        "collapsible_tab_header_position": "top",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "13070f5d-8a58-4daf-a17a-288e26b73b06": {
       "type": "featured-blog",
       "settings": {
@@ -501,6 +463,43 @@
         "border_bottom_thickness": 0,
         "border_bottom_opacity": 0
       }
+    },
+    "85cd9c3d-f856-4ee8-8c9e-ff15a822578c": {
+      "type": "tab-product-list",
+      "blocks": {
+        "38fe840b-df7a-4e6c-a368-0eb92ffd3bee": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Best seller",
+            "icon": "none",
+            "content": "<p>Best seller<\/p>",
+            "description": false,
+            "image_ratio": "43",
+            "page": ""
+          }
+        },
+        "78c87205-0408-47ff-b4f2-3c03e735da15": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "New Arrivals",
+            "icon": "none",
+            "content": "<p>New Arrivals<\/p>",
+            "description": false,
+            "image_ratio": "43",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "38fe840b-df7a-4e6c-a368-0eb92ffd3bee",
+        "78c87205-0408-47ff-b4f2-3c03e735da15"
+      ],
+      "settings": {
+        "box_width": 50,
+        "collapsible_tab_header_position": "top",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -510,7 +509,7 @@
     "d1616f07-db79-4c2d-b39a-920e6603aba5",
     "7afcf70d-4f53-4da2-9322-a5c118360a18",
     "98cf22dd-b2a0-4512-911b-784a91761100",
-    "657cc108-521f-4326-9353-ee943708e710",
-    "13070f5d-8a58-4daf-a17a-288e26b73b06"
+    "13070f5d-8a58-4daf-a17a-288e26b73b06",
+    "85cd9c3d-f856-4ee8-8c9e-ff15a822578c"
   ]
 }
