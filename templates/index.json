@@ -355,18 +355,25 @@
             "heading_size": "h1"
           }
         },
-        "template--17347501523219__9c5800dd-9764-413a-b02d-e6f2f45f67f5-167221148174312811-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Shop all products",
-            "button_link": "shopify:\/\/collections\/all"
-          }
-        },
         "5b29a016-a528-4405-b771-bef245ee59c3": {
           "type": "features",
           "settings": {
             "text": "Feature Intro",
             "image": "shopify:\/\/shop_images\/The_missing_piece.jpg"
+          }
+        },
+        "de30396d-d3f1-45fc-b991-34ba209b0da2": {
+          "type": "features",
+          "settings": {
+            "text": "Feature Intro",
+            "image": "shopify:\/\/shop_images\/The_missing_piece_vector.png"
+          }
+        },
+        "template--17347501523219__9c5800dd-9764-413a-b02d-e6f2f45f67f5-167221148174312811-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop all products",
+            "button_link": "shopify:\/\/collections\/all"
           }
         }
       },
@@ -374,8 +381,9 @@
         "16883d94-9cc8-40f6-acb8-e5d69157b05e",
         "c71faeab-0e09-432a-82ed-b89d59be7576",
         "template--17347501523219__9c5800dd-9764-413a-b02d-e6f2f45f67f5-167221148174312811-0",
-        "template--17347501523219__9c5800dd-9764-413a-b02d-e6f2f45f67f5-167221148174312811-2",
-        "5b29a016-a528-4405-b771-bef245ee59c3"
+        "5b29a016-a528-4405-b771-bef245ee59c3",
+        "de30396d-d3f1-45fc-b991-34ba209b0da2",
+        "template--17347501523219__9c5800dd-9764-413a-b02d-e6f2f45f67f5-167221148174312811-2"
       ],
       "settings": {
         "class_suffix": "home-02-new-collection",
