@@ -471,7 +471,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "Collapsible item",
-            "icon": "check_mark",
+            "icon": "none",
             "content": "<p>aaa<\/p>",
             "description": false,
             "image_ratio": "43",
@@ -482,7 +482,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "Collapsible item",
-            "icon": "check_mark",
+            "icon": "none",
             "content": "<p>aaa<\/p>",
             "description": false,
             "image_ratio": "43",
