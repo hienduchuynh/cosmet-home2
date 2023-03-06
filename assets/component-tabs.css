@@ -90,7 +90,7 @@
 	display: none;
 }
 
-.tab__content div {
+.tab__content:not(.tab_content_with_products) div {
 	display: block !important;
 }
 .tab__content div > p:first-child {
@@ -98,6 +98,9 @@
 }
 .tab__content img {
 	max-width: 100%;
+}
+.tab_content_with_products.rte ul {
+	padding-left: 0;
 }
 @media screen and (min-width: 750px) {
 	.product_tabs_positions_right,
