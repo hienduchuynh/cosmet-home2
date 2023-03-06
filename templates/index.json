@@ -434,36 +434,6 @@
         "padding_bottom": 0
       }
     },
-    "13070f5d-8a58-4daf-a17a-288e26b73b06": {
-      "type": "featured-blog",
-      "settings": {
-        "heading": "The latest from Cosmet",
-        "heading_size": "h1",
-        "title_decor": "shopify:\/\/shop_images\/decor-3.png",
-        "title_style": "02",
-        "description_style": "subtitle",
-        "description": "<p>Our Blog<\/p>",
-        "blog": "skincare",
-        "post_limit": 3,
-        "columns_desktop": 3,
-        "full_width": false,
-        "color_scheme": "background-1",
-        "show_image": true,
-        "image_height": "medium",
-        "show_date": true,
-        "show_author": false,
-        "show_view_all": true,
-        "view_all_content": "View all posts",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 64,
-        "padding_bottom": 128,
-        "border_top_thickness": 0,
-        "border_top_opacity": 0,
-        "border_bottom_thickness": 0,
-        "border_bottom_opacity": 0
-      }
-    },
     "85cd9c3d-f856-4ee8-8c9e-ff15a822578c": {
       "type": "tab-product-list",
       "blocks": {
@@ -540,6 +510,36 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "13070f5d-8a58-4daf-a17a-288e26b73b06": {
+      "type": "featured-blog",
+      "settings": {
+        "heading": "The latest from Cosmet",
+        "heading_size": "h1",
+        "title_decor": "shopify:\/\/shop_images\/decor-3.png",
+        "title_style": "02",
+        "description_style": "subtitle",
+        "description": "<p>Our Blog<\/p>",
+        "blog": "skincare",
+        "post_limit": 3,
+        "columns_desktop": 3,
+        "full_width": false,
+        "color_scheme": "background-1",
+        "show_image": true,
+        "image_height": "medium",
+        "show_date": true,
+        "show_author": false,
+        "show_view_all": true,
+        "view_all_content": "View all posts",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 64,
+        "padding_bottom": 128,
+        "border_top_thickness": 0,
+        "border_top_opacity": 0,
+        "border_bottom_thickness": 0,
+        "border_bottom_opacity": 0
+      }
     }
   },
   "order": [
@@ -549,7 +549,7 @@
     "d1616f07-db79-4c2d-b39a-920e6603aba5",
     "7afcf70d-4f53-4da2-9322-a5c118360a18",
     "98cf22dd-b2a0-4512-911b-784a91761100",
-    "13070f5d-8a58-4daf-a17a-288e26b73b06",
-    "85cd9c3d-f856-4ee8-8c9e-ff15a822578c"
+    "85cd9c3d-f856-4ee8-8c9e-ff15a822578c",
+    "13070f5d-8a58-4daf-a17a-288e26b73b06"
   ]
 }
