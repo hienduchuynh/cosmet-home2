@@ -498,21 +498,41 @@
             "mod_class": ""
           }
         },
-        "78c87205-0408-47ff-b4f2-3c03e735da15": {
-          "type": "collapsible_tab",
+        "ad86a725-beaa-4eb8-8d97-3b56fc1c9a9d": {
+          "type": "product_tab",
           "settings": {
             "heading": "New Arrivals",
             "icon": "none",
-            "content": "<p>New Arrivals<\/p>",
-            "description": false,
-            "image_ratio": "43",
-            "page": ""
+            "description": "",
+            "show_description": false,
+            "collection": "face-makeup",
+            "show_card_collection": false,
+            "products_to_show": 4,
+            "columns_desktop": 4,
+            "full_width": false,
+            "show_view_all": true,
+            "view_all_style": "solid",
+            "enable_desktop_slider": false,
+            "slider_visual": "nav",
+            "color_scheme": "background-1",
+            "desktop_layout": "left",
+            "image_ratio": "adapt",
+            "show_secondary_image": false,
+            "show_vendor": true,
+            "show_rating": true,
+            "show_product_description": false,
+            "enable_quick_add": true,
+            "columns_mobile": "1",
+            "swipe_on_mobile": false,
+            "padding_top": 36,
+            "padding_bottom": 36,
+            "mod_class": ""
           }
         }
       },
       "block_order": [
         "d163bb3e-b073-4d98-a8a3-3bd3f222e2e2",
-        "78c87205-0408-47ff-b4f2-3c03e735da15"
+        "ad86a725-beaa-4eb8-8d97-3b56fc1c9a9d"
       ],
       "settings": {
         "box_width": 100,
