@@ -505,7 +505,7 @@
             "icon": "none",
             "description": "",
             "show_description": false,
-            "collection": "face-makeup",
+            "collection": "latest-products",
             "show_card_collection": false,
             "products_to_show": 4,
             "columns_desktop": 4,
