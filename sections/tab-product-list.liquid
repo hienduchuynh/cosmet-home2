@@ -23,7 +23,7 @@
       {{ 'component-tabs.css' | asset_url | stylesheet_tag }}
       <div class="product___tabs product_tabs_positions_{{ section.settings.collapsible_tab_header_position }} tab quick-add-hidden" id="TabDetails-{{ section.id }}" {{ block.shopify_attributes }}>
         <div id="tabsheader" class="tab-header">
-          <ul class="nav nav-tabs">
+          <ul class="nav nav-tabs tab_nav_with_products">
             {%- for block in section.blocks -%}
               {%- case block.type -%}
                 {%- when '@app' -%}
@@ -33,7 +33,7 @@
                     <li id="tabHeader-{{ forloop.index }}">
                       <div class="summary__title">
                         {% render 'icon-accordion', icon: block.settings.icon %}
-                        <h2 class="h5 tab__title">
+                        <h2 class="h2 tab__title">
                           {{ block.settings.heading | default: block.settings.page.title }}
                         </h2>
                       </div>
@@ -43,7 +43,7 @@
                   <li id="tabHeader-{{ forloop.index }}">
                     <div class="summary__title">
                       {% render 'icon-accordion', icon: block.settings.icon %}
-                      <h2 class="h5 tab__title">
+                      <h2 class="h2 tab__title">
                         {{ block.settings.heading | default: block.settings.page.title }}
                       </h2>
                     </div>
