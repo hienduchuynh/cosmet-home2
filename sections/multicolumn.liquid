@@ -169,7 +169,7 @@
                   {%- endif -%}
 
                   {%- if block.settings.title != blank -%}
-                    <h3 class="{{ block.settings.title_size }}"><a class="link hightlight-link link--text" href="{{ block.settings.link }}">{{ block.settings.title | escape }}</a></h3>
+                    <h3 class="{{ block.settings.title_size }}">{%- if block.settings.link != blank -%}<a class="link hightlight-link link--text" href="{{ block.settings.link }}">{%- endif -%}{{ block.settings.title | escape }}{%- if block.settings.link != blank -%}</a>{%- endif -%}</h3>
                   {%- endif -%}
                   
                   {%- if block.settings.text != blank -%}
