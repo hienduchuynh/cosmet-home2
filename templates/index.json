@@ -539,7 +539,7 @@
             "image": "shopify:\/\/shop_images\/new-collections.jpg",
             "image_position": "top",
             "title": "New collection",
-            "title_size": "h3",
+            "title_size": "h1",
             "meta": "",
             "icon": "none",
             "icon_position": "left",
