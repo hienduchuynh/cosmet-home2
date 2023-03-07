@@ -538,7 +538,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/new-collections.jpg",
             "image_position": "top",
-            "title": "New collection",
+            "title": "New<br>collection",
             "title_size": "h1",
             "meta": "",
             "icon": "none",
