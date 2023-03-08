@@ -692,6 +692,7 @@
         "description": "",
         "image_width": "full",
         "image_ratio": "adapt",
+        "layout": "full_bleed",
         "columns_desktop": 6,
         "column_alignment": "center",
         "background_style": "primary",
