@@ -617,6 +617,89 @@
         "border_bottom_thickness": 0,
         "border_bottom_opacity": 0
       }
+    },
+    "1218677e-d085-4edb-9e71-d64490d7606b": {
+      "type": "ja-testimonials",
+      "blocks": {
+        "4231f236-53a4-4e39-b1e9-af7cf84caef8": {
+          "type": "client",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/snowflake.png",
+            "title": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "bdc276fd-f8c5-4b5f-a295-ca2828cee9be": {
+          "type": "client",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/stdlib.png",
+            "title": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "02d5b67f-2501-417e-bc40-d8842747ba9d": {
+          "type": "client",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/stylus.png",
+            "title": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "3ee12a96-c636-40ce-afe4-8b3b438ddf26": {
+          "type": "client",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/bugsnag.png",
+            "title": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "052c0bdf-fde0-4509-bcc7-e59b5c4ba042": {
+          "type": "client",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/arduino.png",
+            "title": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "b14e1a69-b85a-44d5-b519-b37b60d10c93": {
+          "type": "client",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/strapi.png",
+            "title": "Client",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "4231f236-53a4-4e39-b1e9-af7cf84caef8",
+        "bdc276fd-f8c5-4b5f-a295-ca2828cee9be",
+        "02d5b67f-2501-417e-bc40-d8842747ba9d",
+        "3ee12a96-c636-40ce-afe4-8b3b438ddf26",
+        "052c0bdf-fde0-4509-bcc7-e59b5c4ba042",
+        "b14e1a69-b85a-44d5-b519-b37b60d10c93"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "title_style": "02",
+        "description_style": "body",
+        "description": "",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 6,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
     }
   },
   "order": [
@@ -628,6 +711,7 @@
     "98cf22dd-b2a0-4512-911b-784a91761100",
     "85cd9c3d-f856-4ee8-8c9e-ff15a822578c",
     "e06d4faf-8653-4b75-aec3-82fe739afd9b",
-    "13070f5d-8a58-4daf-a17a-288e26b73b06"
+    "13070f5d-8a58-4daf-a17a-288e26b73b06",
+    "1218677e-d085-4edb-9e71-d64490d7606b"
   ]
 }
