@@ -157,8 +157,8 @@
         "settings": {
           "bg_colors": "#ffffff",
           "text_colors": "#2b2b2b",
-          "full_width": true,
-          "container": false,
+          "full_width": false,
+          "container": true,
           "mod_class": ""
         }
       },
