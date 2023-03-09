@@ -680,15 +680,22 @@
         "template--18022992183571__01b4fb08-2ca9-484b-93e7-0f668141c62d-1678327932f9f7f62d-1": {
           "type": "text",
           "settings": {
-            "text": "<p>WE OFFER<\/p>",
+            "text": "<p>ROYAL NECTAR<\/p>",
             "text_style": "subtitle"
           }
         },
         "template--18022992183571__01b4fb08-2ca9-484b-93e7-0f668141c62d-1678327932f9f7f62d-0": {
           "type": "heading",
           "settings": {
-            "heading": "Recovery treatments for your hair and keratin straightening",
+            "heading": "Recovery treatments for keratin straightening",
             "heading_size": "h1"
+          }
+        },
+        "19dfd071-c0d5-4bfa-a3e5-0339a515db8e": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Medicine from the garden with the most powerful honey ever.<\/p>",
+            "text_style": "body"
           }
         },
         "template--18022992183571__01b4fb08-2ca9-484b-93e7-0f668141c62d-1678327932f9f7f62d-2": {
@@ -706,6 +713,7 @@
       "block_order": [
         "template--18022992183571__01b4fb08-2ca9-484b-93e7-0f668141c62d-1678327932f9f7f62d-1",
         "template--18022992183571__01b4fb08-2ca9-484b-93e7-0f668141c62d-1678327932f9f7f62d-0",
+        "19dfd071-c0d5-4bfa-a3e5-0339a515db8e",
         "template--18022992183571__01b4fb08-2ca9-484b-93e7-0f668141c62d-1678327932f9f7f62d-2"
       ],
       "settings": {
