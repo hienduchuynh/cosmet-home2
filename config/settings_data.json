@@ -127,6 +127,13 @@
       "announcement-bar": {
         "type": "announcement-bar",
         "blocks": {
+          "9db18adb-cfa7-48f3-bdc1-a4232488a442": {
+            "type": "announcement",
+            "settings": {
+              "text": "<ul class=\"social-followers\">\n<li>100k Followers<\/li>\n<li>300k Followers<\/li>\n<\/ul>",
+              "content_alignment": "left"
+            }
+          },
           "announcement-bar-0": {
             "type": "announcement",
             "settings": {
@@ -136,6 +143,7 @@
           }
         },
         "block_order": [
+          "9db18adb-cfa7-48f3-bdc1-a4232488a442",
           "announcement-bar-0"
         ],
         "settings": {
