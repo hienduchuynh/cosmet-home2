@@ -393,14 +393,16 @@
           "type": "features",
           "settings": {
             "text": "Feature Intro",
-            "image": "shopify:\/\/shop_images\/The_missing_piece.jpg"
+            "image": "shopify:\/\/shop_images\/The_missing_piece.jpg",
+            "class_suffix": ""
           }
         },
         "de30396d-d3f1-45fc-b991-34ba209b0da2": {
           "type": "features",
           "settings": {
             "text": "Feature Intro",
-            "image": "shopify:\/\/shop_images\/The_missing_piece_vector.png"
+            "image": "shopify:\/\/shop_images\/The_missing_piece_vector.png",
+            "class_suffix": ""
           }
         },
         "template--17347501523219__9c5800dd-9764-413a-b02d-e6f2f45f67f5-167221148174312811-2": {
@@ -672,6 +674,55 @@
         "padding_bottom": 0
       }
     },
+    "01b4fb08-2ca9-484b-93e7-0f668141c62d": {
+      "type": "image-banner",
+      "blocks": {
+        "template--18022992183571__01b4fb08-2ca9-484b-93e7-0f668141c62d-1678327932f9f7f62d-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>WE OFFER<\/p>",
+            "text_style": "subtitle"
+          }
+        },
+        "template--18022992183571__01b4fb08-2ca9-484b-93e7-0f668141c62d-1678327932f9f7f62d-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Recovery treatments for your hair and keratin straightening",
+            "heading_size": "h1"
+          }
+        },
+        "template--18022992183571__01b4fb08-2ca9-484b-93e7-0f668141c62d-1678327932f9f7f62d-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "View more",
+            "button_link_1": "shopify:\/\/collections",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18022992183571__01b4fb08-2ca9-484b-93e7-0f668141c62d-1678327932f9f7f62d-1",
+        "template--18022992183571__01b4fb08-2ca9-484b-93e7-0f668141c62d-1678327932f9f7f62d-0",
+        "template--18022992183571__01b4fb08-2ca9-484b-93e7-0f668141c62d-1678327932f9f7f62d-2"
+      ],
+      "settings": {
+        "mod_class": "",
+        "image": "shopify:\/\/shop_images\/recovery-treatment.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "large",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-left",
+        "show_text_box": true,
+        "desktop_content_alignment": "left",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
     "13070f5d-8a58-4daf-a17a-288e26b73b06": {
       "type": "featured-blog",
       "settings": {
@@ -713,6 +764,7 @@
     "85cd9c3d-f856-4ee8-8c9e-ff15a822578c",
     "e06d4faf-8653-4b75-aec3-82fe739afd9b",
     "1218677e-d085-4edb-9e71-d64490d7606b",
+    "01b4fb08-2ca9-484b-93e7-0f668141c62d",
     "13070f5d-8a58-4daf-a17a-288e26b73b06"
   ]
 }
