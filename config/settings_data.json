@@ -144,7 +144,7 @@
           "2100351b-7c90-41e4-a009-e2b29afb2392": {
             "type": "announcement",
             "settings": {
-              "text": "<p>Find a Store<\/p>",
+              "text": "<p class=\"find-a-store\">Find a Store<\/p>",
               "content_alignment": "center"
             }
           }
