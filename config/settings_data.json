@@ -145,7 +145,7 @@
             "type": "announcement",
             "settings": {
               "text": "<p class=\"find-a-store\">Find a Store<\/p>",
-              "content_alignment": "center"
+              "content_alignment": "right"
             }
           }
         },
