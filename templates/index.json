@@ -85,7 +85,7 @@
         "accessibility_info": "Slideshow about our brand",
         "padding_top": 0,
         "padding_bottom": 0,
-        "addition_class": ""
+        "addition_class": "home2-slideshow"
       }
     },
     "502eac10-f950-461b-a014-b0c013cfb42e": {
@@ -323,7 +323,7 @@
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 128,
-        "padding_bottom": 128,
+        "padding_bottom": 0,
         "border_top_thickness": 0,
         "border_top_opacity": 0,
         "border_bottom_thickness": 0,
@@ -343,8 +343,8 @@
         "show_description": false,
         "collection": "latest-products",
         "show_card_collection": false,
-        "products_to_show": 10,
-        "columns_desktop": 4,
+        "products_to_show": 8,
+        "columns_desktop": 3,
         "full_width": true,
         "show_view_all": false,
         "view_all_style": "outline",
@@ -393,14 +393,8 @@
           "type": "features",
           "settings": {
             "text": "Feature Intro",
-            "image": "shopify:\/\/shop_images\/The_missing_piece.jpg"
-          }
-        },
-        "de30396d-d3f1-45fc-b991-34ba209b0da2": {
-          "type": "features",
-          "settings": {
-            "text": "Feature Intro",
-            "image": "shopify:\/\/shop_images\/The_missing_piece_vector.png"
+            "image": "shopify:\/\/shop_images\/The-missing-piece.png",
+            "class_suffix": ""
           }
         },
         "template--17347501523219__9c5800dd-9764-413a-b02d-e6f2f45f67f5-167221148174312811-2": {
@@ -416,7 +410,6 @@
         "c71faeab-0e09-432a-82ed-b89d59be7576",
         "template--17347501523219__9c5800dd-9764-413a-b02d-e6f2f45f67f5-167221148174312811-0",
         "5b29a016-a528-4405-b771-bef245ee59c3",
-        "de30396d-d3f1-45fc-b991-34ba209b0da2",
         "template--17347501523219__9c5800dd-9764-413a-b02d-e6f2f45f67f5-167221148174312811-2"
       ],
       "settings": {
@@ -672,6 +665,63 @@
         "padding_bottom": 0
       }
     },
+    "01b4fb08-2ca9-484b-93e7-0f668141c62d": {
+      "type": "image-banner",
+      "blocks": {
+        "template--18022992183571__01b4fb08-2ca9-484b-93e7-0f668141c62d-1678327932f9f7f62d-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>ROYAL NECTAR<\/p>",
+            "text_style": "subtitle"
+          }
+        },
+        "template--18022992183571__01b4fb08-2ca9-484b-93e7-0f668141c62d-1678327932f9f7f62d-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Recovery treatments for keratin straightening",
+            "heading_size": "h1"
+          }
+        },
+        "19dfd071-c0d5-4bfa-a3e5-0339a515db8e": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Medicine from the garden with the most powerful honey ever.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--18022992183571__01b4fb08-2ca9-484b-93e7-0f668141c62d-1678327932f9f7f62d-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "View more",
+            "button_link_1": "shopify:\/\/collections",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18022992183571__01b4fb08-2ca9-484b-93e7-0f668141c62d-1678327932f9f7f62d-1",
+        "template--18022992183571__01b4fb08-2ca9-484b-93e7-0f668141c62d-1678327932f9f7f62d-0",
+        "19dfd071-c0d5-4bfa-a3e5-0339a515db8e",
+        "template--18022992183571__01b4fb08-2ca9-484b-93e7-0f668141c62d-1678327932f9f7f62d-2"
+      ],
+      "settings": {
+        "mod_class": "",
+        "image": "shopify:\/\/shop_images\/recovery-treatment.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "large",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-left",
+        "show_text_box": true,
+        "desktop_content_alignment": "left",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
     "13070f5d-8a58-4daf-a17a-288e26b73b06": {
       "type": "featured-blog",
       "settings": {
@@ -713,6 +763,7 @@
     "85cd9c3d-f856-4ee8-8c9e-ff15a822578c",
     "e06d4faf-8653-4b75-aec3-82fe739afd9b",
     "1218677e-d085-4edb-9e71-d64490d7606b",
+    "01b4fb08-2ca9-484b-93e7-0f668141c62d",
     "13070f5d-8a58-4daf-a17a-288e26b73b06"
   ]
 }

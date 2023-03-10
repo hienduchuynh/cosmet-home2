@@ -127,22 +127,38 @@
       "announcement-bar": {
         "type": "announcement-bar",
         "blocks": {
+          "9db18adb-cfa7-48f3-bdc1-a4232488a442": {
+            "type": "announcement",
+            "settings": {
+              "text": "<ul class=\"social-followers\">\n<li>100k Followers<\/li>\n<li>300k Followers<\/li>\n<\/ul>",
+              "content_alignment": "left"
+            }
+          },
           "announcement-bar-0": {
             "type": "announcement",
             "settings": {
               "text": "<p>Free shipping on all U.S. orders $50+<\/p>",
               "content_alignment": "center"
             }
+          },
+          "2100351b-7c90-41e4-a009-e2b29afb2392": {
+            "type": "announcement",
+            "settings": {
+              "text": "<p class=\"find-a-store\"><span>Find a Store<\/span><\/p>",
+              "content_alignment": "right"
+            }
           }
         },
         "block_order": [
-          "announcement-bar-0"
+          "9db18adb-cfa7-48f3-bdc1-a4232488a442",
+          "announcement-bar-0",
+          "2100351b-7c90-41e4-a009-e2b29afb2392"
         ],
         "settings": {
           "bg_colors": "#ffffff",
           "text_colors": "#2b2b2b",
-          "full_width": true,
-          "container": false,
+          "full_width": false,
+          "container": true,
           "mod_class": ""
         }
       },
