@@ -393,15 +393,7 @@
           "type": "features",
           "settings": {
             "text": "Feature Intro",
-            "image": "shopify:\/\/shop_images\/The_missing_piece.jpg",
-            "class_suffix": ""
-          }
-        },
-        "de30396d-d3f1-45fc-b991-34ba209b0da2": {
-          "type": "features",
-          "settings": {
-            "text": "Feature Intro",
-            "image": "shopify:\/\/shop_images\/The_missing_piece_vector.png",
+            "image": "shopify:\/\/shop_images\/The-missing-piece.png",
             "class_suffix": ""
           }
         },
@@ -418,7 +410,6 @@
         "c71faeab-0e09-432a-82ed-b89d59be7576",
         "template--17347501523219__9c5800dd-9764-413a-b02d-e6f2f45f67f5-167221148174312811-0",
         "5b29a016-a528-4405-b771-bef245ee59c3",
-        "de30396d-d3f1-45fc-b991-34ba209b0da2",
         "template--17347501523219__9c5800dd-9764-413a-b02d-e6f2f45f67f5-167221148174312811-2"
       ],
       "settings": {
