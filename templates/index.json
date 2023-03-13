@@ -568,7 +568,7 @@
         "button_label": "",
         "button_link": "",
         "color_scheme": "background-1",
-        "columns_tablet": "2",
+        "columns_tablet": "1",
         "swipe_on_tablet": false,
         "columns_mobile": "1",
         "swipe_on_mobile": false,
