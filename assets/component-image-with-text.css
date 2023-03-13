@@ -447,6 +447,32 @@
 .home-02-new-collection .image-with-text__content .button:hover span {
   border-bottom: 1px solid transparent;
 }
+@media screen and (max-width: 979px) {
+	.home-02-new-collection .image-with-text__content * { 
+		text-align: center;
+		justify-content: center;
+	}
+	.home-02-new-collection .image-with-text__content {
+		display: block;
+		text-align: center;
+	}
+	.home-02-new-collection .image-with-text__content > .button { 
+		margin: 4rem 0;
+	}
+}
+
+@media screen and (min-width: 980px) and (max-width: 1199px) { 
+	.home-02-new-collection .image-with-text__content {
+		padding: 32px;
+	}
+	.home-02-new-collection .image-with-text__content .features-intro img { 
+		height: auto;
+		width: 100%;
+	}
+	.home-02-new-collection .image-with-text__content .button {
+		margin-top: 3.2rem;
+	}
+}
 
 /* Home 3 */
 .home-03-new-collection .features-intro .feature-item {
