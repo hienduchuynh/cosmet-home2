@@ -33,6 +33,16 @@ slideshow-component .slideshow.banner {
 .slideshow__media {
   border-radius: 0;
 }
+
+.slideshow__text.banner__box > .subtitle *{ 
+  color: rgba(var(--color-base-accent-2), 1);
+  text-transform: none;
+  font-size: calc(var(--font-heading-scale) * 1.8rem);
+}
+.slideshow__text.banner__box > * + .banner__buttons .button {
+  --color-button: var(--color-base-accent-2);
+}
+
 @media screen and (max-width: 919px) {
   .slideshow__text.banner__box {
     max-width: 100% !important;
