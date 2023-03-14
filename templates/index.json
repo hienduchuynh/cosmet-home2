@@ -15,6 +15,7 @@
         "c40410bb-daae-4d8b-a206-e38b948a7b44"
       ],
       "settings": {
+        "enable": true,
         "bg_colors": "#2b2b2b",
         "text_colors": "#ffffff",
         "full_width": false,
