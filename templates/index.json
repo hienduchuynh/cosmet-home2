@@ -752,6 +752,17 @@
         "border_bottom_thickness": 0,
         "border_bottom_opacity": 0
       }
+    },
+    "c92697c5-21e4-41dc-ab7b-b284f4abe076": {
+      "type": "announcement-bar",
+      "settings": {
+        "enable": false,
+        "bg_colors": "#212121",
+        "text_colors": "#FFFFFF",
+        "full_width": false,
+        "container": false,
+        "mod_class": ""
+      }
     }
   },
   "order": [
@@ -765,6 +776,7 @@
     "e06d4faf-8653-4b75-aec3-82fe739afd9b",
     "1218677e-d085-4edb-9e71-d64490d7606b",
     "01b4fb08-2ca9-484b-93e7-0f668141c62d",
-    "13070f5d-8a58-4daf-a17a-288e26b73b06"
+    "13070f5d-8a58-4daf-a17a-288e26b73b06",
+    "c92697c5-21e4-41dc-ab7b-b284f4abe076"
   ]
 }
