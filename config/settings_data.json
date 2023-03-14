@@ -155,6 +155,7 @@
           "2100351b-7c90-41e4-a009-e2b29afb2392"
         ],
         "settings": {
+          "enable": true,
           "bg_colors": "#ffffff",
           "text_colors": "#2b2b2b",
           "full_width": false,
