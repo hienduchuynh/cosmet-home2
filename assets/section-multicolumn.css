@@ -313,11 +313,12 @@
 	white-space: nowrap;
 }
 
+
 .multicolumn-card__info .multicolumn-card-title-wrap .icon {
-	color: rgba(var(--color-base-accent-1));
-	fill: rgba(var(--color-base-accent-1));
-	width: 5.6rem;
-	height: 5.6rem;
+	color: rgba(var(--color-base-accent-2));
+	fill: rgba(var(--color-base-accent-2));
+	width: 4.8rem;
+	height: 4.8rem;
 }
 
 .multicolumn-2.background-primary .multicolumn-card {
@@ -407,7 +408,7 @@
 }
 
 .multicolumn-card-title-wrap.left .icon {
-	margin-right: 2.8rem;
+	margin-right: 4rem;
 }
 
 .multicolumn-card-title-wrap.right .icon {
@@ -687,6 +688,27 @@
 	}
 }
 
-.home2-royal-banner .banner__text.subtitle { 
+.home2-royal-banner .banner__text.subtitle {
 	color: rgba(var(--color-base-accent-2));
+}
+
+/*commited sections*/
+.commit-from-us {
+}
+
+.commit-from-us .multicolumn-list h3 {
+	font-weight: 600;
+}
+.commit-from-us .multicolumn-card__info h3 + .rte {
+	margin-top: 0.8rem;
+	color: rgba(var(--color-foreground), 0.75);
+}
+.commit-from-us .multicolumn-card__info .icon {
+	color: rgba(var(--color-base-accent-1));
+	fill: rgba(var(--color-base-accent-1));
+	width: 5.6rem;
+	height: 5.6rem;
+}
+.commit-from-us .multicolumn-card-title-wrap.left .icon {
+	margin-right: 2.8rem;
 }
