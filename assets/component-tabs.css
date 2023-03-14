@@ -121,7 +121,6 @@
 .tab_content_with_products.rte ul {
 	padding-left: 0;
 }
-
 @media screen and (min-width: 750px) {
 	.product_tabs_positions_right,
 	.product_tabs_positions_left {
@@ -143,7 +142,7 @@
 		width: 100%;
 		margin: 0;
 	}
-	
+
 	.product_tabs_positions_right:after,
 	.product_tabs_positions_left:after {
 		display: none;
@@ -168,7 +167,7 @@
 	.product_tabs_positions_left .tab__content {
 		padding: 9px 0;
 	}
-	.product_tabs_positions_left .tab__content div * {
+	.product_tabs_positions_left .tab__content div *{ 
 		text-align: left;
 	}
 	.product_tabs_positions_right {

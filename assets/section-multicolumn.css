@@ -263,6 +263,7 @@
 
 .multicolumn-card > .multicolumn-card__image-wrapper--full-width:not(.multicolumn-card-spacing) {
 	overflow: hidden;
+	border-radius: 0.8rem;
 }
 
 .multicolumn.background-none .multicolumn-card {
@@ -280,6 +281,14 @@
 	text-decoration: none;
 	font-size: inherit;
 	margin-top: 1.5rem;
+}
+
+.multicolumn-card__info .link.link--text {
+	text-decoration: underline;
+}
+
+.multicolumn-card__info .link.link--text:hover {
+	color: rgba(var(--color-base-background-2));
 }
 
 .fashion-collection .multicolumn-card__info .link {
@@ -304,7 +313,7 @@
 	white-space: nowrap;
 }
 
-.multicolumn-card__info .icon {
+.multicolumn-card__info .multicolumn-card-title-wrap .icon {
 	color: rgba(var(--color-base-accent-1));
 	fill: rgba(var(--color-base-accent-1));
 	width: 5.6rem;
