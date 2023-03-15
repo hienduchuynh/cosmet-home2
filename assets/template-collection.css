@@ -346,7 +346,7 @@
 	margin: 0 2px;
 	border-radius: 50%;
 }
-
+.slider-buttons.slider-dots .slider-counter__link--dots.slider-counter__link:hover,
 .slider-buttons.slider-dots .slider-counter__link--dots.slider-counter__link.slider-counter__link--active {
 	border-color: rgb(var(--color-foreground));
 }
@@ -416,6 +416,7 @@
 
 .collection slider-component .slider-buttons {
   position: static;
+	margin-top: 64px;
 }
 
 .collection slider-component .slider-buttons .slider-button {
@@ -436,6 +437,10 @@
     width: 4.8rem;
     height: 4.8rem;
   }
+}
+
+.collection slider-component .slider-navigation {
+	margin: 0;
 }
 
 .collection slider-component .slider-buttons .slider-button--prev {
